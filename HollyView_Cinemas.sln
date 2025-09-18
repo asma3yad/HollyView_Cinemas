@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holly View", "Holly View.csproj", "{92A34537-5F1C-46CB-98C4-C7E80AA6F85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A34537-5F1C-46CB-98C4-C7E80AA6F85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A34537-5F1C-46CB-98C4-C7E80AA6F85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A34537-5F1C-46CB-98C4-C7E80AA6F85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A34537-5F1C-46CB-98C4-C7E80AA6F85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E99C73-3E99-41FC-9EF0-80A0F26AC36D}
+	EndGlobalSection
+EndGlobal
